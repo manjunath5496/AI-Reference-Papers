@@ -63,14 +63,21 @@
  
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(35).pdf" style="text-decoration:none;">Learning Hierarchical Priors in VAEs</a></b></li> 
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(36).pdf" style="text-decoration:none;">Learning Program Embeddings to Propagate Feedback on Student Code</a></b></li> 
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(36).pdf" style="text-decoration:none;">Which principal components are most sensitive to distributional changes?</a></b></li> 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(37).pdf" style="text-decoration:none;">SearchLens: Composing and Capturing Complex User Interests for Exploratory Search</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(38).pdf" style="text-decoration:none;">Beyond Dyadic Interactions: Considering Chatbots as Community Members</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(39).pdf" style="text-decoration:none;">Tuned Models of Peer Assessment in MOOCs</a></b></li>
- <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(40).pdf" style="text-decoration:none;">Ubicoustics: Plug-and-Play Acoustic Activity Recognition</a></b></li>                              
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(41).pdf" style="text-decoration:none;">Designing Theory-Driven User-Centric Explainable AI</a></b></li>
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(42).pdf" style="text-decoration:none;">Zero Shot Learning for Code Education: Rubric Sampling with Deep Learning Inference</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(37).pdf" style="text-decoration:none;">Four Things Everyone Should Know to Improve Batch Normalization</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(38).pdf" style="text-decoration:none;">XLNet: Generalized Autoregressive Pretraining for Language Understanding</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(39).pdf" style="text-decoration:none;">Learning Data Augmentation Strategies for Object Detection</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(40).pdf" style="text-decoration:none;">Lookahead Optimizer: k steps forward, 1 step back</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(41).pdf" style="text-decoration:none;">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(42).pdf" style="text-decoration:none;">Ab-Initio Solution of the Many-Electron Schrodinger Equation with Deep Neural Networks</a></b></li>
+ 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(43).pdf" style="text-decoration:none;">Evaluating Scalable Uncertainty Estimation Methods for DNN-Based Molecular Property Prediction</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(44).pdf" style="text-decoration:none;">NGBoost: Natural Gradient Boosting for Probabilistic Prediction</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(45).pdf" style="text-decoration:none;">BoTorch: Programmable Bayesian Optimization in PyTorch. Bayesian optimization</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(40).pdf" style="text-decoration:none;">Lookahead Optimizer: k steps forward, 1 step back</a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(41).pdf" style="text-decoration:none;">RoBERTa: A Robustly Optimized BERT Pretraining Approach</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Human-AI-Interaction-Papers/blob/master/hai(42).pdf" style="text-decoration:none;">Ab-Initio Solution of the Many-Electron Schrodinger Equation with Deep Neural Networks</a></b></li>
  
 
  
